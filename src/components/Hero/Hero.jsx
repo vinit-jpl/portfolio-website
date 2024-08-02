@@ -9,8 +9,8 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Vinit !</h1>
         <p className={styles.description}>
           Hi, I'm Vinit Jogi, a Hyperautomation Engineer at Jio Platforms Ltd. 
-          I specialize in Node.js, Ansible, Bash scripting, and Python.
-          My expertise lies in backend web development.
+          I specialize in backend web development using Nodejs, also have hands on experience on 
+          working with Ansible and Shell scripting.
         </p>
         <a href="vinit.jpl@gmail.com"  className={styles.contactBtn}>Contact Me</a>
       </div>
