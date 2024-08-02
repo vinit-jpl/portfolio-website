@@ -1,0 +1,19 @@
+[
+    {
+        "role": "Hyperautomation Engineer (GET)",
+        "organisation": "Jio Platforms Ltd, Navi Mumbai, India.",
+        "startDate": "Dec 2023",
+        "endDate": "Present",
+        "experiences": ["Working on automating the generation of database health check reports using Ansible and Shell scripts."],
+        "imgsrc": "history/jio.png" 
+    },
+
+    {
+        "role": "Front End Developer Intern",
+        "organisation": "Wolfx Digital Agency, Mumbai, India.",
+        "startDate": "Dec 2021",
+        "endDate": "Feb 2022",
+        "experiences": ["Transforemd Figma designes into responsive websites using HTML CSS and Javascript."],
+        "imgsrc": "history/wolfx.png" 
+    }
+]

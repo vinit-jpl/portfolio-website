@@ -88,7 +88,8 @@
     .aboutItems {
         margin-top: 29px;
     }
-    .title {
-        margin-left: 55px;
+
+    .aboutItem{
+        margin: 0;
     }
 }
