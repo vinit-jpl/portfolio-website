@@ -1,5 +1,6 @@
 import styles from "./App.module.css";
 import { About } from "./components/About/About.jsx";
+import {Contact} from "./components/Contact/Contact.jsx";
 import { Experience } from "./components/Experience/Experience.jsx";
 import { Hero } from "./components/Hero/Hero.jsx";
 import { Navbar } from "./components/Navbar/Navbar.jsx";
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Experience />
       <Projects />
+      <Contact />
     </div>
   )
 }
