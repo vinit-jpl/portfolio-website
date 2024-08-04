@@ -1,9 +1,27 @@
 [
     {
-        "title": "",
-        "imgSrc": "",
-        "description": "",
-        "skills": "",
-        "source": ""
+        "title": "Airline System Backend",
+        "imgSrc": "projects/project.png",
+        "description": "This project uses a microservice architecture with services for flight search, ticket booking, auth, and reminders.",
+        "skills": ["Node.js", "Express", "MySQL", "Sequelize", "RabbitMQ"],
+        "source": "https://github.com/vinitjogi/FlightAndSearchService"
+    },
+
+    {
+        
+        "title": "Twitter Backend",
+        "imgSrc": "projects/project.png",
+        "description": "This project uses a monolithic architecture in which user can post a tweet/image, comment on tweet and like/unlike the tweet along with user authentication using passport js.",
+        "skills": ["Node.js", "Express", "MongoDb", "Mongoose"],
+        "source": "https://github.com/vinitjogi/Twitter-Backend"
+    },
+
+    {
+        
+        "title": "My Portfolio",
+        "imgSrc": "projects/project.png",
+        "description": "This is my portfolio website built using ReactJs showcasing my technical skills and professional background.",
+        "skills": ["HTML", "CSS", "React js"],
+        "source": "https://github.com/vinit-jpl/portfolio-website"
     }
 ]
