@@ -37,7 +37,13 @@ export const ProjectCard = ({ project : {title, imgSrc, description, skills, dem
         }
       </ul>
       <div className ={styles.links}>
-        <a className ={styles.link} href={source}>Source</a>
+        <li className ={styles.link}>
+          <img
+            src={getImageUrl("contact/githubIcon.png")}
+            alt='github-icon'
+          />
+          <a className={ styles.srcLink }href={source}>Source</a>
+        </li>
       </div>
     </div>
   )
