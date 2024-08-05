@@ -12,7 +12,7 @@ export const Hero = () => {
           I specialize in backend web development using Nodejs, also have hands on experience on 
           working with Ansible and Shell scripting.
         </p>
-        <a href="vinit.jpl@gmail.com"  className={styles.contactBtn}>Contact Me</a>
+        <a href="mailto:vinit.jpl@gmail.com"  className={styles.contactBtn}>Contact Me</a>
       </div>
 
       <img className={styles.heroImg} src={getImageUrl("hero/heroImageMan.png")} alt="Hero-Image"/>
@@ -21,5 +21,3 @@ export const Hero = () => {
     </section>
   );
 }
-
-export default Hero;
